@@ -1,3 +1,4 @@
 I want to creat a control systerm
 I like
-my name is li peng
+my name is li peg
+This software is free to everyonen
